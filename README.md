@@ -1,3 +1,3 @@
 # tb1mobile
 
-A new Flutter project.
+Membuat aplikasi aqua menggunakan framework flutter
